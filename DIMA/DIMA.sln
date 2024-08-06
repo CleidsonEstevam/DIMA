@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dima.Core", "Dima.Core\Dima.Core.csproj", "{8DED8E1A-54C6-4A09-B2B3-12A2B20C8F10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dima.API", "Dima.API\Dima.API.csproj", "{F1522F1E-926E-47DF-BBA0-F2B1C73410B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DED8E1A-54C6-4A09-B2B3-12A2B20C8F10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DED8E1A-54C6-4A09-B2B3-12A2B20C8F10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DED8E1A-54C6-4A09-B2B3-12A2B20C8F10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DED8E1A-54C6-4A09-B2B3-12A2B20C8F10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1522F1E-926E-47DF-BBA0-F2B1C73410B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1522F1E-926E-47DF-BBA0-F2B1C73410B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1522F1E-926E-47DF-BBA0-F2B1C73410B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1522F1E-926E-47DF-BBA0-F2B1C73410B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42E9A887-2C4F-4A06-857B-BD435A1523EF}
+	EndGlobalSection
+EndGlobal
